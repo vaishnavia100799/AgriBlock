@@ -1,0 +1,1 @@
+const AgriBlockAddress= '0xDEDE0f0fD28C43c6494508Db69c66714768EdFcB';
